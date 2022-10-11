@@ -1,0 +1,2 @@
+# alias
+alias dotctl='/usr/bin/git --git-dir=${HOME}/.dotfiles/ --work-tree=${HOME}'

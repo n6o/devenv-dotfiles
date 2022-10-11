@@ -1,0 +1,2 @@
+# Add 'source' script if need.
+# [ -f ~/.bashrc.n6o ] && source ~/.bashrc.n6o

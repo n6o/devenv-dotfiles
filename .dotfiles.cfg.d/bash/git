@@ -1,0 +1,23 @@
+# ============
+# git
+# ============
+source /etc/bash_completion.d/git-prompt
+#source /usr/share/bash-completion/completions/git
+
+# alias
+# ------------
+alias g='git'
+alias ga='git add'
+alias gcm='git commit -m'
+alias gcam='git commit -am'
+alias gcae='git commit --allow-empty'
+alias gdc='git diff --cached'
+alias gdn='git diff --name-only'
+alias gf='git fetch -p'
+alias gl='git log'
+alias glno='git log --name-only'
+alias glg='git log --graph --oneline --decorate --all'
+alias glom='git fetch && git log origin/master'
+alias gs='git status'
+alias gg='git grep'
+alias ggl='git grep -l'
