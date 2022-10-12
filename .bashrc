@@ -44,6 +44,7 @@ source ${CONFIG_DIR}/bash/common
 source ${CONFIG_DIR}/bash/completion
 source ${CONFIG_DIR}/bash/dotctl
 source ${CONFIG_DIR}/bash/git
+source ${CONFIG_DIR}/bash/golang
 
 # local
 [ -f ~/.bashrc.local ] && source ~/.bashrc.local
