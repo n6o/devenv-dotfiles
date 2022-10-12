@@ -1,5 +1,5 @@
 # ref: https://bitbucket.org/durdn/cfg/src/master/.bin/install.sh
-REPO=https://github.com/peg7/dotfiles.git
+REPO=https://github.com/n6o/virt-dotfiles.git
 
 ## change dir to home dir.
 cd ~
