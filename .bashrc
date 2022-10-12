@@ -40,6 +40,7 @@ force_color_prompt=yes
 # bash config
 # ------------
 CONFIG_DIR=~/.dotfiles.cfg.d
+source ${CONFIG_DIR}/bash/common
 source ${CONFIG_DIR}/bash/completion
 source ${CONFIG_DIR}/bash/dotctl
 source ${CONFIG_DIR}/bash/git
